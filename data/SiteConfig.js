@@ -12,11 +12,11 @@ const config = {
   dateFormat: 'DD/MM/YYYY',
   userName: 'Hannah',
   userTwitter: 'homemadecoder', // Optionally renders "Follow Me" in the UserInfo segment.
+  postsPerPage: 4, // Amount of posts displayed per listing page.
   // siteRssTitle: 'Gatsby Advanced Starter RSS feed', // Title of the RSS feed
   // siteFBAppID: '1825356251115265', // FB Application ID for using app insights
   // googleAnalyticsID: 'UA-47311644-5', // GA tracking ID.
   // disqusShortname: 'https-vagr9k-github-io-gatsby-advanced-starter', // Disqus shortname.
-  // postsPerPage: 4, // Amount of posts displayed per listing page.
   // userEmail: 'AdvancedUser@example.com', // Email used for RSS feed's author segment
   // userLocation: 'North Pole, Earth', // User location to display in the author segment.
   // userAvatar: 'https://api.adorable.io/avatars/150/test.png', // User avatar to display in the author segment.
