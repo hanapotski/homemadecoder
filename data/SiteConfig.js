@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: 'Hannah Zulueta',
+  siteTitle: 'HomemadeCoder',
   siteTitleShort: 'Hannah Zulueta',
   siteTitleAlt: 'Hannah Zulueta',
   siteLogo: '/logos/logo-1024.png',
@@ -34,18 +34,18 @@ const config = {
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: '#e0e0e0', // Used for setting manifest background color.
   menuLinks: [
-    {
-      name: 'Me',
-      link: '/me/'
-    },
-    {
-      name: 'Blog',
-      link: '/blog/'
-    },
-    {
-      name: 'Contact',
-      link: '/contact/'
-    }
+    // {
+    //   name: 'Me',
+    //   link: '/me/'
+    // },
+    // {
+    //   name: 'Blog',
+    //   link: '/blog/'
+    // },
+    // {
+    //   name: 'Contact',
+    //   link: '/contact/'
+    // }
   ]
   // siteRssTitle: 'Gatsby Advanced Starter RSS feed', // Title of the RSS feed
   // siteFBAppID: '1825356251115265', // FB Application ID for using app insights
