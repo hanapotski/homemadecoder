@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+
+  &-center {
+    justify-content: center;
+  }
+}
+
+.header {
+  font-size: 3rem;
+  margin: 25px;
+  font-family: 'Paytone One', sans-serif;
+}
